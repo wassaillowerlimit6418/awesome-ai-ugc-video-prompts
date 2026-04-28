@@ -26,18 +26,15 @@ This repository is for founders, marketers, DTC brands, e-commerce teams, app bu
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
 ## Related Cliprise GitHub resources
 
-Use these if you want adjacent prompt libraries and workflows.
-
-- [Awesome AI Video Ads Prompts](https://github.com/cliprise/awesome-ai-video-ads-prompts)
-- [Awesome AI Product Video Prompts](https://github.com/cliprise/awesome-ai-product-video-prompts)
-- [Awesome Image-to-Video Prompts](https://github.com/cliprise/awesome-image-to-video-prompts)
-- [Awesome Seedance 2 Prompts](https://github.com/cliprise/awesome-seedance-2-prompts)
-- [Awesome AI Video Generator Prompts](https://github.com/cliprise/awesome-ai-video-generator-prompts)
-
----
-
+- [Awesome AI video ads prompts](https://github.com/cliprise/awesome-ai-video-ads-prompts) - paid social and performance video ad prompt structures.
+- [Awesome AI TikTok video prompts](https://github.com/cliprise/awesome-ai-tiktok-video-prompts) - vertical short-form hooks and native-feel video patterns.
+- [Awesome AI product video prompts](https://github.com/cliprise/awesome-ai-product-video-prompts) - demo, PDP, and e-commerce video oriented prompts.
+- [Awesome AI app promo video prompts](https://github.com/cliprise/awesome-ai-app-promo-video-prompts) - mobile UI, store listings, and product-led video prompts.
+- [Best AI video generator resources](https://github.com/cliprise/best-ai-video-generator-resources) - comparison frameworks, cost signals, and workflow starters for AI video generation.
+<!-- CLIPRISE_LINKING_END -->
 ## What this repository is
 
 This repository is a practical prompt and workflow hub for users searching for:
